@@ -1,0 +1,9 @@
+sudo apt install python3-pip python3-dev libpq-dev apache2 apache2-dev libapache2-mod-wsgi-py3 -y
+
+sudo pip install django mod_wsgi --break-system-packages
+
+django
+ settings.py ALLOW_HOSTS 修正
+
+
+ 

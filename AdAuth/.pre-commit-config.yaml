@@ -1,0 +1,47 @@
+repos:
+- repo: local
+  hooks:
+  -   id: isort
+      name: isort
+      entry: isort --check .
+      stages:
+          - "commit"
+      language: system
+      pass_filenames: false
+      always_run: true
+
+  -   id: black
+      name: black
+      entry: black --check .
+      stages:
+          - "commit"
+      language: system
+      pass_filenames: false
+      always_run: true
+
+  -   id: mypy
+      name: mypy
+      entry: mypy . --check-untyped-defs
+      stages:
+          - "commit"
+      language: system
+      pass_filenames: false
+      always_run: true
+
+  -   id: flake8
+      name: flake8
+      entry: flake8 .
+      stages:
+          - "commit"
+      language: system
+      pass_filenames: false
+      always_run: true
+
+  -   id: pytest
+      name: pytest
+      entry: pytest ./tests/
+      stages:
+          - "commit"
+      language: system
+      pass_filenames: false
+      always_run: true

@@ -1,0 +1,2 @@
+class AdAuthException(Exception):
+    pass

@@ -1,0 +1,9 @@
+Dockerfile_dev
+**/__pycache__/**
+.vscode-server/
+.ssh/
+.cache/
+.bash_history
+.gitconfig
+.gnupg
+.env

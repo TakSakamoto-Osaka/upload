@@ -1,0 +1,10 @@
+version: '3.5'
+services:
+  fastapi-srv:
+    container_name: 'adauth'
+    image: 150.35.36.177/adauth
+    volumes:
+      - ./:/root/
+    tty: true
+    restart: always
+    

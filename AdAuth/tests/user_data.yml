@@ -1,0 +1,22 @@
+normal:
+  name: sakamototak
+  display_name: 坂本 隆幸
+  company: ダイキン工業(株)
+  employee_number: '187169'
+  department: 油機事業部 製造部
+  mail: takayuki.sakamoto@daikin.co.jp
+  employee_type: 正社員
+  telephone_number: '7233647'
+  phonetic_name: さかもと たかゆき
+  member_of: ['油機事業部', 'hyd.prodeng@daikin.co.jp']
+
+special:
+  name: hyd_pe_system
+  display_name: '油機生産技術G システム管理'
+  company: ''
+  employee_number: '00000000'
+  department: '油機生産技術G'
+  mail: hyd_pe_system@daikin.co.jp
+  employee_type: ''
+  telephone_number: ''
+  phonetic_name: ''
