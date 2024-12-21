@@ -1,0 +1,5 @@
+C:\Users\sakamototak\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\EUTCom\bin\Debug\EUTCom.dll
+C:\Users\sakamototak\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\EUTCom\bin\Debug\EUTCom.pdb
+C:\Users\sakamototak\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\EUTCom\obj\Debug\EUTCom.csproj.CoreCompileInputs.cache
+C:\Users\sakamototak\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\EUTCom\obj\Debug\EUTCom.dll
+C:\Users\sakamototak\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\EUTCom\obj\Debug\EUTCom.pdb

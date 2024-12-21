@@ -1,0 +1,13 @@
+C:\Users\sakamototak\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\SADE\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\sakamototak\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\SADE\bin\Debug\WindowsFormsApp9.exe
+C:\Users\sakamototak\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\SADE\bin\Debug\WindowsFormsApp9.pdb
+C:\Users\sakamototak\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\SADE\bin\Debug\EUTCom.dll
+C:\Users\sakamototak\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\SADE\bin\Debug\EUTCom.pdb
+C:\Users\sakamototak\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\SADE\obj\Debug\SADE.csprojAssemblyReference.cache
+C:\Users\sakamototak\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\SADE\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+C:\Users\sakamototak\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\SADE\obj\Debug\SADE.csproj.GenerateResource.cache
+C:\Users\sakamototak\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\SADE\obj\Debug\SADE.csproj.CoreCompileInputs.cache
+C:\Users\sakamototak\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\SADE\obj\Debug\SADE.csproj.CopyComplete
+C:\Users\sakamototak\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\SADE\obj\Debug\WindowsFormsApp9.exe
+C:\Users\sakamototak\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\SADE\obj\Debug\WindowsFormsApp9.pdb
+C:\Users\sakamototak\Documents\Visual Studio 2017\Projects\WindowsFormsApp9\SADE\obj\Debug\SADE.FormMain.resources

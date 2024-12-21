@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1433
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EUTCom", "EUTCom\EUTCom.csproj", "{F4C7C074-FA62-47CF-97EE-6EA10E65B908}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SADE", "SADE\SADE.csproj", "{27FE1993-A419-4F85-9246-152D7B09FDB2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4C7C074-FA62-47CF-97EE-6EA10E65B908}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4C7C074-FA62-47CF-97EE-6EA10E65B908}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4C7C074-FA62-47CF-97EE-6EA10E65B908}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4C7C074-FA62-47CF-97EE-6EA10E65B908}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27FE1993-A419-4F85-9246-152D7B09FDB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27FE1993-A419-4F85-9246-152D7B09FDB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27FE1993-A419-4F85-9246-152D7B09FDB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27FE1993-A419-4F85-9246-152D7B09FDB2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DABAB4ED-D392-4DBF-9668-5FFCE8BECC2E}
+	EndGlobalSection
+EndGlobal
