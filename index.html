@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CSSセレクタ</title>
+
+    <style>
+        h1 {
+            color: blue;
+        }
+
+        #myid {
+            color: green;
+        }
+
+        .myclass {
+            color: orange
+        }
+
+        .parent > .child {
+            color: red;
+        }
+
+        .grand-parent .child {
+            color: skyblue;
+        }
+
+        .grand-parent.grand-parent2 {
+            color:magenta;
+        }
+
+        .grand-parent3.grand-parent4.grand-parent5 {
+            color:greenyellow;
+        }
+
+    </style>
+</head>
+<body>
+    <h1>要素セレクタ</h1>
+    <h2 id="myid">IDセレクタ</h2>
+    <h3 class="myclass">クラスセレクタ</h3>
+
+    <div class="parent">
+        <p class="child">子供要素</p>
+    </div>
+
+    <div class="grand-parent">
+        先祖要素
+        <div>
+            <div class="child">
+                子孫要素
+            </div>
+        </div>
+    </div>
+
+    <div class="grand-parent grand-parent2">
+        先祖要素 複数クラス
+    </div>
+
+    <div class="grand-parent3 grand-parent4 grand-parent5"></div>
+        先祖要素 複数クラス(3つ)
+    </div>
+    
+</body>
+</html>
+
