@@ -1,0 +1,18 @@
+#!/bin/bash
+
+/usr/local/bin/gunicorn --error-logfile /var/log/gunicorn/error.log --access-logfile /var/log/gunicorn/access.log --capture-output --log-level debug  --worker-class uvicorn.workers.UvicornWorker app:appInspecAPI -c gunicorn_settings.py
+
+
+[Unit]
+Description = Inspec API daemon
+
+[Service]
+WorkingDirectory=/var/www/InspecAPI
+ExecStart = /usr/local/bin/InspecAPI.sh
+Restart = yes
+Type = simple
+User=root
+Group=root
+
+[Install]
+WantedBy = multi-user.target
